@@ -11,13 +11,21 @@ h1{
 
 img{
 
-    border-radius: 50%;
+    border-radius: 30%;
     height: 240px;
     margin:auto;
     display:block;
    width: 280px;
    border-color: blue;
    border-style: outset;
-   border-width: 13px;
+   border-width: 8px;
+}
+
+#btn{
+    display: block;
+    margin: auto;
+    background-color: blue;
+    color: white;
+    border-color: blue;
 }
 
